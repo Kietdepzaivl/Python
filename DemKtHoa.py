@@ -11,3 +11,7 @@ for i in str(s):
         LoKey+=1
 print('Tong so kt in hoa la: ',UpKey)
 print('Tong so kt thuong la: ',LoKey)
+
+
+#print("HELP ME!")
+#print("SOS!!!")
